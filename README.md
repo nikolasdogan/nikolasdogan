@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikolasdogan
-- - 🗿 Laravel Developer
-- - 🐍 Python
+  - 🗿 Laravel Developer
+  - 🐍 Python
   - 🐘 PHP
   - 🍃 MongoDB
