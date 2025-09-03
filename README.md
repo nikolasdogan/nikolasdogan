@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @nikolasdogan
   - 🗿 Laravel
+  - 🔥 Code Igniter
   - 🐍 Python
   - 🐘 PHP
   - 🍃 MongoDB
   - 🔥 Google FireBase
+  - 🦊 Ubuntu LTS
